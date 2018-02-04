@@ -1,1 +1,28 @@
+<layouttype>thumbnail</layouttype>
 
+
+<channels>
+<channel>
+<name>[COLORred][B]Live Stand Up Comedy Shows[B][/COLOR]</name>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
+<externallink>FFFF</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLORwhite][B]Comedy Clubs Classic UK Box Sets[B][/COLOR]</name>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
+<externallink>FFFF</externallink>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
+<info>[COLORred]ONE CLICK PLAY BRITISH TV SHOWS.[/COLOR] [COLORlime]ALL HOSTED ON PRIVATE SERVERS.[/COLOR]</info>
+</channel>
+
+
+<channel>
+<name>[COLORred][B]Comedy Club HD Movies[B][/COLOR]</name>
+<thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
+<externallink>FFFF</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
