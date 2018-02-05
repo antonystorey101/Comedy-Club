@@ -1,7 +1,7 @@
 <channel>
 <name>[COLORred]Only Fools & Horses[/COLOR]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61xGIU-K0fL._SY445_.jpg</thumbnail>
-<externallink>FFFF</externallink>
+<externallink>https://github.com/antonystorey101/Comedy-Club/raw/master/OFAH.txt</externallink>
 <fanart></fanart>
 <info>[COLORred]ALL CONTENT FOUND ONLINE.[/COLOR] [COLORwhite]SHOWS ARE SET AS LISTS.[/COLOR]</info>
 </channel>
