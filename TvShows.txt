@@ -1,3 +1,6 @@
+<layouttype>thumbnail</layouttype>
+
+
 <channel>
 <name>[COLORred]Only Fools & Horses[/COLOR]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61xGIU-K0fL._SY445_.jpg</thumbnail>
