@@ -1,6 +1,7 @@
 <layouttype>thumbnail</layouttype>
 
 
+<channels>
 <channel>
 <name>[COLORred]Only Fools & Horses[/COLOR]</name>
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/61xGIU-K0fL._SY445_.jpg</thumbnail>
@@ -16,3 +17,4 @@
 <fanart></fanart>
 <info>[COLORred]ALL CONTENT FOUND ONLINE.[/COLOR] [COLORwhite]SHOWS ARE SET AS LISTS.[/COLOR]</info>
 </channel>
+</channels>
