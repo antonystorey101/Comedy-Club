@@ -12,7 +12,6 @@
 
 <channel>
 <name>[COLORwhite]Comedy Clubs Classic UK Box Sets[/COLOR]</name>
-<thumbnail>https://www.dropbox.com/s/4by6eoz3qy576bl/fanart.jpg?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/Comedy-Club/raw/master/TvShows.txt</externallink>
 <thumbnail>https://www.dropbox.com/s/a8gjzs3qalq1agx/icon.png?dl=1</thumbnail>
 <info>[COLORred]ONE CLICK PLAY BRITISH TV SHOWS.[/COLOR] [COLORlime]ALL HOSTED ON PRIVATE SERVERS.[/COLOR]</info>
