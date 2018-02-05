@@ -22,7 +22,7 @@
 <channel>
 <name>[COLORred]Comedy Club HD Movies[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/4by6eoz3qy576bl/fanart.jpg?dl=1</thumbnail>
-<externallink>FFFF</externallink>
+<externallink>https://github.com/antonystorey101/Comedy-Club/raw/master/Movies.txt</externallink>
 <fanart></fanart>
 <info></info>
 </channel>
