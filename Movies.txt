@@ -1,1 +1,6 @@
-
+<item>
+<title>[COLORred]THE TRUMAN SHOW[/COLOR]</title>
+<link>http://files1.vodiptv.org/Films/The.Truman.Show.1998.720p.mp4</link>
+<thumbnail>https://static.rogerebert.com/uploads/movie/movie_poster/the-truman-show-1998/large_EelZzudHRvJmjWccWscN1S5vmI.jpg</thumbnail>
+<fanart></fanart>
+</item>
