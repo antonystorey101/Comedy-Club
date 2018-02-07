@@ -1,1 +1,13 @@
+<item>
+<title>[COLORgold]~~~~~~UK COMEDY CHANNELS~~~~~~[/COLOR]</title>
+<link>ffff</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51VRDPVRJ0L.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>[COLORred]UK GOLD SD[/COLOR]</title>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/143684.ts</link>
+<thumbnail>https://www.dropbox.com/s/0udumeaaet9yhkh/Live%20TV_zpsubbgezcw.PNG?dl=1</thumbnail>
+<fanart></fanart>
+</item>
