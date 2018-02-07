@@ -25,3 +25,31 @@
 <thumbnail>https://www.dropbox.com/s/0udumeaaet9yhkh/Live%20TV_zpsubbgezcw.PNG?dl=1</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORwhite]UK COMEDY CENTRAL EXTRA SD[/COLOR]</title>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/21094.ts</link>
+<thumbnail>https://www.dropbox.com/s/0udumeaaet9yhkh/Live%20TV_zpsubbgezcw.PNG?dl=1</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORred]UK SKY CINEMA COMEDY HD[/COLOR]</title>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/143539.ts</link>
+<thumbnail>https://www.dropbox.com/s/0udumeaaet9yhkh/Live%20TV_zpsubbgezcw.PNG?dl=1</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORwhite]UK SKY CINEMA DISNEY HD[/COLOR]</title>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/143538.ts</link>
+<thumbnail>https://www.dropbox.com/s/0udumeaaet9yhkh/Live%20TV_zpsubbgezcw.PNG?dl=1</thumbnail>
+<fanart></fanart>
+</item>
+
+<item>
+<title>[COLORred]UK DAVE HD[/COLOR]</title>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/142758.ts</link>
+<thumbnail>https://www.dropbox.com/s/0udumeaaet9yhkh/Live%20TV_zpsubbgezcw.PNG?dl=1</thumbnail>
+<fanart></fanart>
+</item>
