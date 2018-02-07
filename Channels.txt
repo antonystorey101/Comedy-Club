@@ -7,7 +7,7 @@
 
 <item>
 <title>[COLORred]UK GOLD SD[/COLOR]</title>
-<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/143684.ts</link>
+<link>http://interstellarlivetv.ddns.net:83/live/Ant1/Letmein1/21070.ts</link>
 <thumbnail>https://www.dropbox.com/s/0udumeaaet9yhkh/Live%20TV_zpsubbgezcw.PNG?dl=1</thumbnail>
 <fanart></fanart>
 </item>
