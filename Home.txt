@@ -3,7 +3,15 @@
 
 <channels>
 <channel>
-<name>[COLORred]Live Stand Up Comedy Shows[/COLOR]</name>
+<name>[COLORred]Live Comedy Tv Channels[/COLOR]</name>
+<thumbnail>https://www.dropbox.com/s/4by6eoz3qy576bl/fanart.jpg?dl=1</thumbnail>
+<externallink>FFF</externallink>
+<fanart></fanart>
+<info></info>
+</channel>
+
+<channel>
+<name>[COLORwhite]Live Stand Up Comedy Shows[/COLOR]</name>
 <thumbnail>https://www.dropbox.com/s/4by6eoz3qy576bl/fanart.jpg?dl=1</thumbnail>
 <externallink>https://github.com/antonystorey101/Comedy-Club/raw/master/StandUp.txt</externallink>
 <fanart></fanart>
