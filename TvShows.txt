@@ -23,7 +23,7 @@
 <channel>
 <name>[COLORred]Blackadder[/COLOR]</name>
 <thumbnail>http://images.45worlds.com/f/dv/black-adder-the-complete-collection-limited-edition-dv.jpg</thumbnail>
-<externallink>F</externallink>
+<externallink>https://github.com/antonystorey101/Comedy-Club/raw/master/Blackadder.txt</externallink>
 <fanart></fanart>
 <info>[COLORred]ALL CONTENT FOUND ONLINE.[/COLOR] [COLORwhite]SHOWS ARE SET AS LISTS.[/COLOR]</info>
 </channel>
