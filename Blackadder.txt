@@ -11,3 +11,10 @@
 <thumbnail>https://images-na.ssl-images-amazon.com/images/I/51VRDPVRJ0L.jpg</thumbnail>
 <fanart></fanart>
 </item>
+
+<item>
+<title>[COLORgold]~~~~~~SEASON TWO~~~~~~[/COLOR]</title>
+<link>ffff</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/518VW6JBKBL.jpg</thumbnail>
+<fanart></fanart>
+</item>
