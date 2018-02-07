@@ -1,1 +1,13 @@
+<item>
+<title>[COLORgold]~~~~~~SEASON ONE~~~~~~[/COLOR]</title>
+<link>ffff</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51VRDPVRJ0L.jpg</thumbnail>
+<fanart></fanart>
+</item>
 
+<item>
+<title>[COLORred]THE FORTHCOMING[/COLOR]</title>
+<link>http://files1.vodiptv.org/TV%20Shows/Blackadder/Season%201/Blackadder.S01E01.PAL.DVD.DD2.0.x264-SDB.MKV</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51VRDPVRJ0L.jpg</thumbnail>
+<fanart></fanart>
+</item>
